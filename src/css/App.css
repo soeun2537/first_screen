@@ -1,0 +1,9 @@
+.main {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 29.5em;
+  height: 17em;
+  padding: 2em;
+}

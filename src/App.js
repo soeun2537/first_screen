@@ -1,6 +1,7 @@
-import "./App.css";
-import Button from "./Button";
-import Quote from "./Quote";
+import "./css/App.css";
+import "./css/Greeting.css";
+import Button from "./components/Button";
+import Quote from "./components/Quote";
 
 function App() {
   return (
