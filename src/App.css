@@ -1,0 +1,36 @@
+.main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 29.5em;
+  height: 17em;
+  padding: 2em;
+}
+
+.tile {
+  display: inline-block;
+  margin: auto;
+  width: 85px;
+  height: 100px;
+  padding: 1em;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.tileImg {
+  width: 50px;
+  height: 50px;
+  display: block;
+  margin: 10px auto;
+  border-radius: 70%;
+}
+
+.tileTitle {
+  font-size: 14px;
+  color: black;
+  text-align: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
