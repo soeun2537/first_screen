@@ -1,8 +1,9 @@
 .quote {
-    font-family: Nanum Gothic;
-    position: fixed;
-    bottom: 30px;
-    width: 100%;
-    margin-left: 0;
-    text-align: center;
-  }  
+  color: white;
+  font-family: Nanum Gothic;
+  position: fixed;
+  bottom: 30px;
+  width: 100%;
+  margin-left: 0;
+  text-align: center;
+}

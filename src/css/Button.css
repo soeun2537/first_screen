@@ -1,27 +1,26 @@
 .tile {
-    display: inline-block;
-    margin: auto;
-    width: 85px;
-    height: 100px;
-    padding: 1em;
-    text-decoration: none;
-    border-radius: 10px;
-  }
-  
-  .tileImg {
-    width: 50px;
-    height: 50px;
-    display: block;
-    margin: 10px auto;
-    border-radius: 70%;
-  }
-  
-  .tileTitle {
-    font-family: Nanum Gothic;
-    font-size: 14px;
-    color: black;
-    text-align: center;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    white-space: nowrap;
-  }
+  display: inline-block;
+  margin: auto;
+  width: 85px;
+  height: 100px;
+  padding: 1em;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.tileImg {
+  width: 50px;
+  height: 50px;
+  display: block;
+  margin: 10px auto;
+  border-radius: 70%;
+}
+
+.tileTitle {
+  font-family: Nanum Gothic;
+  font-size: 14px;
+  text-align: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}

@@ -1,6 +1,8 @@
 .clock {
+    color: white;
+    position: relative;
     font-size: 50px;
     font-family: Nanum Gothic;
     text-align: center;
-    margin-top: 0.8em;
+    padding: 0.8em;
 }

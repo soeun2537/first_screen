@@ -14,7 +14,10 @@ function Button({ url, imgUrl, title }) {
       onMouseOver={onMouseOver}
       onMouseOut={onMouseOut}
       className="tile"
-      style={{ backgroundColor: mouseState ? "#d2d2d2" : "white" }}
+      style={{
+        backgroundColor: mouseState ? "white" : "transparent",
+        color: mouseState ? "black" : "white",
+      }}
       href={url}
     >
       <img className="tileImg" src={imgUrl}></img>
