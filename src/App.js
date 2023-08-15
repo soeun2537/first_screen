@@ -2,12 +2,16 @@ import "./css/App.css";
 import "./css/Greeting.css";
 import Button from "./components/Button";
 import Quote from "./components/Quote";
+import Clock from "./components/Clock";
 
 function App() {
   return (
     <div>
       <div className="greeting">
-        <h1>Welcome, 소은님</h1>
+        <h2>Welcome, 소은님</h2>
+      </div>
+      <div>
+        <Clock />
       </div>
       <div className="main">
         <Button
