@@ -7,3 +7,9 @@
     padding-top: 4em;
   }
 }
+
+@media (max-height: 620px) {
+  .greeting {
+    display: none;
+  }
+}

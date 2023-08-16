@@ -9,3 +9,9 @@
     text-align: center;
   }
 }
+
+@media (max-height: 620px) {
+  .quote {
+    display: none;
+  }
+}
