@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/first_screen/static/css/main.f512ceef.css",
+    "main.js": "/first_screen/static/js/main.c8d3efa7.js",
+    "index.html": "/first_screen/index.html",
+    "main.f512ceef.css.map": "/first_screen/static/css/main.f512ceef.css.map",
+    "main.c8d3efa7.js.map": "/first_screen/static/js/main.c8d3efa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f512ceef.css",
+    "static/js/main.c8d3efa7.js"
+  ]
+}
