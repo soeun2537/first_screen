@@ -1,8 +1,10 @@
-.clock {
+@media (min-height: 620px) {
+  .clock {
     color: white;
     position: relative;
     font-size: 50px;
     font-family: Nanum Gothic;
     text-align: center;
     padding: 0.8em;
+  }
 }

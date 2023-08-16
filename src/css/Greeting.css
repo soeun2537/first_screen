@@ -1,7 +1,9 @@
-.greeting {
-  color: white;
-  position: relative;
-  text-align: center;
-  font-family: Nanum Gothic;
-  padding-top: 4em;
+@media (min-height: 620px) {
+  .greeting {
+    color: white;
+    position: relative;
+    text-align: center;
+    font-family: Nanum Gothic;
+    padding-top: 4em;
+  }
 }
